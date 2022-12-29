@@ -6,7 +6,7 @@ menu:
     name: "Blogs"
     weight: 2
 ---
-## This is our section where we document our journey through FTC.
+## This is a section where we document our journey through FTC.
 <br>
 
 
