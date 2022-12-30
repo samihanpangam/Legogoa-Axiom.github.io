@@ -39,5 +39,5 @@ menu:
    7px 7px 20px 0px rgba(0,0,0,.1),
    4px 4px 5px 0px rgba(0,0,0,.1);
   outline: none;
-  background:#4d9dff ;" href="https://gmail.com" onclick="window.location.href = 'httphugo://api.whatsapp.com/send?phone=918007094101&text=Hello!%0AI%20would%20like%20to%20sponsor%20your%20team';
+  background:#4d9dff ;" href="https://gmail.com" onclick="window.location.href = 'http://api.whatsapp.com/send?phone=918007094101&text=Hello!%0AI%20would%20like%20to%20sponsor%20your%20team';
 ">Sponsor us💸</button>
