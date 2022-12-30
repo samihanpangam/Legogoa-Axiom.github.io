@@ -2,29 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/language-perfect/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/first_customer/</loc>
+    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/fund2/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/fun/</loc>
+    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/github_session/</loc>
+    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/fund_raising/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/first_meeting_session/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/sanity-not-statistical/</loc>
-    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/destruction-of-words/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/controls-the-past/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
-  </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/team/</loc>
+  </url><url>
     <loc>/pages/</loc>
+  </url><url>
+    <loc>/sponsor/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

@@ -17,16 +17,16 @@ pygmentsUseClasses = true
   google_analytics_id = ""
   twitter_handle = "@zerostaticio"
   showAuthorOnHomepage = false
-  showAuthorOnPosts = true
+  showAuthorOnPosts = false
   showPostsOnHomepage = false
   addDot = true
   addFrame = true
-  highlightColor = '#008F81'
+  highlightColor = '#4d9dff'
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "#008F81"
+  dotColor = "#4d9dff"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
