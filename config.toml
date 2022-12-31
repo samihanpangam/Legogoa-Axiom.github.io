@@ -1,4 +1,4 @@
-baseURL = "https://Legogoa-Axiom.github.io"
+baseURL = "http://anaykamat.com/hugo_sample_lg_ak/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
