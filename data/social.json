@@ -14,6 +14,11 @@
       "name": "youtube",
       "url": "https://www.youtube.com/@legogoa447",
       "image": "images/social/youtube.svg"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/ftclegogoa/",
+      "image": "images/social/instagram.svg"
     }
   ]
 }
