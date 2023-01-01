@@ -1,6 +1,6 @@
 ---
 title: 'FTC'
-image: images/FTC.jpeg
+image: images/Ftc.jpeg
 url: "FTC"
 menu:
   main:
