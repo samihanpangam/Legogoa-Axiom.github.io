@@ -8,36 +8,14 @@ menu:
     weight: 3
 ---
 
-## Participating in a competition of this scale needs considerable funds and resources and we would be grateful to receive help from you in any possible way.
+## What is FTC?
 
-•There are a  number of ways that you can help us. We would be deeply thankful to receive:
+•FIRST Tech Challenge is the ultimate Sport for the Mind. 
 
-•Funding for our project (however much you can donate).
+•High-school student participants . 
 
-•Parts or tools to help us make our robot
+•Under strict rules, limited time and resources, teams of students are challenged to raise funds, design a team "brand," hone teamwork skills, and build and program industrial-size robots to play a difficult field game against like-minded competitors. 
 
-•Giving us access to your social media following or connections to allow us to spread the word about our group
+•It’s as close to real-world engineering as a student can get. 
 
-•A platform to spread outreach
-
-<br>
-
-<button style=" width: 250px;
-  height: 75px;
-  color: #000;
-  border-radius: 5px;
-  padding: 10px 25px;
-  font-family: 'Lato', sans-serif;
-  font-size: 35px;
-  font-weight: 500;
-  background: transparent;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  position: relative;
-  display: inline-block;
-   box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
-   7px 7px 20px 0px rgba(0,0,0,.1),
-   4px 4px 5px 0px rgba(0,0,0,.1);
-  outline: none;
-  background:#4d9dff ;" href="https://gmail.com" onclick="window.location.href = 'http://api.whatsapp.com/send?phone=918007094101&text=Hello!%0AI%20would%20like%20to%20sponsor%20your%20team';
-">Sponsor us💸</button>
+•Volunteer professional mentors lend their time and talents to guide each team.
