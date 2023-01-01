@@ -20,4 +20,4 @@ And as our name suggests - we're based out of Goa. 🏖️
 We've entered and won competitions with brilliant modules replicated in the form of Lego. Our innovations not only won competitions, but also inspired other such young minds.
 
 ## Our social handles
-<div class="tagembed-container" style=" width:100%;height:100%;overflow: auto;"><div class="tagembed-socialwall" data-wall-id="80981" view-url="https://widget.tagembed.com/80981">  </div> <script src="//widget.tagembed.com/embed.min.js" type="text/javascript"></script></div>
+<div class="tagembed-container" style=" width:100%;height:100%;overflow: auto;"><div class="tagembed-socialwall" data-wall-id="81109" view-url="https://widget.tagembed.com/81109">  </div> <script src="//widget.tagembed.com/embed.min.js" type="text/javascript"></script></div>
