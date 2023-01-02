@@ -2,7 +2,7 @@ baseURL = "https://legogoa-axiom.github.io/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Legogoa Axiom"
+title = "Legogoa Axi0m"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -22,12 +22,12 @@ canonifyurls = true
   showPostsOnHomepage = false
   addDot = true
   addFrame = true
-  highlightColor = '#4d9dff'
+  highlightColor = '#0378e2'
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "#4d9dff"
+  dotColor = "#0378e2"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
