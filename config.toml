@@ -1,4 +1,4 @@
-baseURL = "https://legogoa-axiom.github.io/"
+baseURL = "https://legogoa.in/
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
