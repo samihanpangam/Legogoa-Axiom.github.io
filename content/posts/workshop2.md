@@ -2,7 +2,7 @@
 title: Workshops
 date: 2023-01-03
 description: "We were thinking of building a website which includes everyone's collaboration. Our team coach Saieesh Sir introduced us to GitHub and.."
-image: images/blogs/blog3.jpg
+image: images/blogs/blog6.jpeg
 ---
 
 
