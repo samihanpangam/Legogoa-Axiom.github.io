@@ -1,5 +1,5 @@
 ---
-title: Fundraising initiative
+title: Outreach activity at Mushtifund High School
 date: 2022-12-23
 description: "We (Aniket Bhatikar and Samihan Pangam) conducted a workshop on 21 and 22 December 2022, 'Basic Electronics and Robotics', as a.."
 image: images/blogs/blog5_1.jpg
