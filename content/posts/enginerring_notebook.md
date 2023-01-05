@@ -1,8 +1,8 @@
 ---
 title: "Session on Engineering Notebook by Mr Ashwin Shah"
-date: 2022-01-05
+date: 2023-01-05
 description: 'On 4 January 2023,Mr Ashwin Shah, the mentor of team Sigma and many other FTC teams took a session to advise us...'
-image: images/blogs/blog8.jpg
+image: images/blogs/blog8.jpeg
 ---
 On 4 January 2023,Mr Ashwin Shah, the mentor of team Sigma and many other FTC teams took a session to advise us on how to maintain the engineering notebook.
 
