@@ -83,10 +83,10 @@ I study in the 9th grade from Mushtifund. I like programming. I KNOW ARDUINO, Py
 
 ### My Achievements:
 
-1)Coding competition 2021 2nd in Tiswadi Taluka
-2) ATL Marathon 2021 our Auto Oxi model selected in the national level top 350
-3) Selected for 2 weeks of IBM internship
-4) Our Smart Speed Signages is selected for zonal level western India science competition. Mumbai, we will represent Goa
+1)Coding competition 2021 2nd in Tiswadi Taluka.
+2) ATL Marathon 2021 our Auto Oxi model selected in the national level top 350.
+3) Selected for 2 weeks of IBM internship.
+4) Our Smart Speed Signages is selected for zonal level western India science competition. Mumbai, we will represent Goa.
 <!-- ![viraj](/images/team_members/viraj.png) -->
 </details>
 
