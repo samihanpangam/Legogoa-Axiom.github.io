@@ -71,7 +71,7 @@ My hobbies are playing chess, programming, learning new things and building and 
 3) Received proficiency in 2nd and 3rd grade.
 4) Won many chess competitions in categories such as U-7, U-9, U-11.
 5) Won first prize in GK quiz in school.
-<!-- ![viraj](/images/team_members/viraj.png) -->
+![dhruv](/images/team_members/taksh.png)
 </details>
 
 <br>
@@ -146,7 +146,7 @@ I have a lot of interests in sports and academics. I have experience in coding w
 3) I won a competition where we had to pitch an idea to investors and raise funding for it. 
 4) I have come 2nd in the LogiQids competition.
 
-![viraj](/images/team_members/taksh.png)
+<!-- ![viraj](/images/team_members/taksh.png) -->
 </details>
 
 

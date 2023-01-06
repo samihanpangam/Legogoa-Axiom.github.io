@@ -13,4 +13,3 @@ menu:
 <h3>2) Mr. Amey Karmali, CIBA - Center For Incubation And Business Acceleration</h3>
 <h3>3) Ryan Vaz, Infinity 3D Systems</h3>
 <h3>4) Amey Borkar, Infinty 3D Systems</h3>
-<h3>5) Inspired From FARMBOT</h3>
