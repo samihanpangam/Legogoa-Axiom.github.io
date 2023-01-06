@@ -71,7 +71,8 @@ My hobbies are playing chess, programming, learning new things and building and 
 3) Received proficiency in 2nd and 3rd grade.
 4) Won many chess competitions in categories such as U-7, U-9, U-11.
 5) Won first prize in GK quiz in school.
-![dhruv](/images/team_members/taksh.png)
+
+![dhruv](/images/team_members/dhruv.png)
 </details>
 
 <br>
