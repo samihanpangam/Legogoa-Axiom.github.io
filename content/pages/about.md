@@ -198,3 +198,21 @@ I am based out of Delhi and am going to be remote working for this project. I ha
 
 ![viraj](/images/team_members/vedant.jpg)
 </details>
+
+<br>
+<details>
+<summary style="font-size:32px; font-weight:bold; color: black; font-family: 'Poppins', sans-serif;">👨‍💻 Venkatesh Dempo</summary>
+I am a 13 year old tech savvy enthusiast who loves to explore especially in the field of robotics.
+### My Achievements:
+
+1) Secured top fifth position in the International MIT App Inventor Hackathon Competition. 
+2) Won the Google Code To Learn Contest 2022. Congratulated by famous politicians
+3) Won the MakeX Championship at nationals.
+4) Selected as a finalist at the World Robotics Olympiad WRO. 
+5) Won numerous awards at school in Spelling Bees, Essay Writing & Chess.
+6) Winning many app-designing competitions like FIRC etc.
+7) Won the award for excellence in Media Tech given by Magazine 'Incredible Goa'.
+8) All of my achievements were pubished on leading Indian and Goan News Papers as well as coding insitute websites. To share my coding knowledge with other interested children I created a YouTube channel DRAG which stands as an acornym for Dempo Robotics Academy Goa. You can find the link here : <a href="https://www.youtube.com/c/DempoRoboticsAcademyGoaDRAG">DRAG</a>
+
+![venkatesh](/images/team_members/vd.png)
+</details>
