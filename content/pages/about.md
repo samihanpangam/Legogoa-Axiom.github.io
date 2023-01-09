@@ -203,6 +203,7 @@ I am based out of Delhi and am going to be remote working for this project. I ha
 <details>
 <summary style="font-size:32px; font-weight:bold; color: black; font-family: 'Poppins', sans-serif;">👨‍💻 Venkatesh Dempo</summary>
 I am a 13 year old tech savvy enthusiast who loves to explore especially in the field of robotics.
+
 ### My Achievements:
 
 1) Secured top fifth position in the International MIT App Inventor Hackathon Competition. 
